@@ -1,4 +1,4 @@
-# Bus-Tracker# 
+# Bus-Tracker
 
 ## Description
 This is a program that works with two different api's. One to import a map and markers, and the other to import bus data.
