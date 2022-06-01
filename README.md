@@ -1,17 +1,16 @@
 # Bus-Tracker
 
 ## Description
-This is a program that works with two different api's. One to import a map and markers, and the other to import bus data.
-It tracks all of the active mbta busses in boston once the main button is pushed.
+This program uses an APIs along with real bus-stop coordinates to establish a route. A marker has been chosem and assigned 
+bus-stop coordinates to move along with. 
 
 ## How to Run
-One can get this up and running on their machine by following the documentation either here or at the mapbox website, to place the map and subsequent markers on the screen. After that the data from a chosen API of you choice can be imported and passed into a marker.
-
-To see how this one works just go to the link of the project and press 'Show Active MBTA Bus Locations in Boston'.
+Click the link above. You will see a button on the top left of the screen saying "Show Stops Between MIT and Harvard. 
+Click that button and watch the Marker move along the bus-stops from MIT to the Harvard Campus. 
 
 ## Roadmap
-I would like to add a geolocation tracker so the user can know where they are more easily in relation to the active busses.
-
+Eventually I would like to create a more accurate and true reading of seat availability on Buses. It would be an multi-API application 
+that could be accessed by the general public, but also run and dependent upon user data to constantly update seat availability stats. 
 ## License
 
 MIT License
