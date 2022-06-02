@@ -1,6 +1,6 @@
 # Bus-Tracker
 
-# Link: https://dukeofnowhere.github.io/Portfolio/Projects.html
+# Link: https://dukeofnowhere.github.io/Portfolio_/Projects.html
 
 ## Description
 This program uses Api's along with real bus-stop coordinates to establish a route. A marker has been assigned bus-stop coordinates to move along with. 
