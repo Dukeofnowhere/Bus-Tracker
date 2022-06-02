@@ -1,16 +1,16 @@
 # Bus-Tracker
 
+# Link: https://dukeofnowhere.github.io/Portfolio/Projects.html
+
 ## Description
-This program uses an APIs along with real bus-stop coordinates to establish a route. A marker has been chosem and assigned 
-bus-stop coordinates to move along with. 
+This program uses an Api's along with real bus-stop coordinates to establish a route. A marker has been chosem and assigned bus-stop coordinates to move along with. 
 
 ## How to Run
-Click the link above. You will see a button on the top left of the screen saying "Show Stops Between MIT and Harvard. 
-Click that button and watch the Marker move along the bus-stops from MIT to the Harvard Campus. 
+Click the link above. It will take you to the "Projects" page. Click "Run Code" on the "Real Time Bus Tracker" Project. When the page has loaded, you will see a button on the top left of the screen saying "Show Stops Between MIT and Harvard." 
+Click the button and watch the Marker move through the bus-stop coordinates along the bus route from MIT to the Harvard Campus. 
 
 ## Roadmap
-Eventually I would like to create a more accurate and true reading of seat availability on Buses. It would be an multi-API application 
-that could be accessed by the general public, but also run and dependent upon user data to constantly update seat availability stats. 
+Eventually I would like to create a more accurate and true reading of seat availability on Buses. It would be an multi-API application that could be accessed by the general public, but also run and dependent upon user data to constantly update seat availability stats. 
 ## License
 
 MIT License
