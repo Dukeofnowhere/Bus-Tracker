@@ -6,7 +6,7 @@
 This program uses an Api's along with real bus-stop coordinates to establish a route. A marker has been chosem and assigned bus-stop coordinates to move along with. 
 
 ## How to Run
-Click the link above. It will take you to the "Projects" page. Click "Run Code" on the "Real Time Bus Tracker" Project. When the page has loaded, you will see a button on the top left of the screen saying "Show Stops Between MIT and Harvard." 
+Click the link above. It will take you to the "Projects" page. Click "Run Code" on the "Real Time Bus Tracker" project. When the page has loaded, you will see a button on the top left of the screen saying "Show Stops Between MIT and Harvard." 
 Click the button and watch the Marker move through the bus-stop coordinates along the bus route from MIT to the Harvard Campus. 
 
 ## Roadmap
